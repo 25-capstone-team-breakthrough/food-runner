@@ -54,5 +54,12 @@ AI 기반 식단·운동 자동 관리 헬스케어 플랫폼
 
 ---
 
+## 시연 영상(Demo Videos)
+
+- [모바일 시연 영상](https://www.youtube.com/watch?v=e5tX_yVxTi0)  
+- [웹 시연 영상](https://www.youtube.com/watch?v=mg_RT6aKlig)  
+
+---
+
 > 팀명: **체력돌파**  
 > 문의: [cejhans1520@gmail.com]
